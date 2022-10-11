@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\±èÁø°æ\database\jsp_data2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4192081906.index
+\weather\src\main\java
